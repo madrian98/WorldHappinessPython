@@ -17,17 +17,17 @@ Try it out with binder:<br /> [![Binder](https://mybinder.org/badge_logo.svg)](h
 
 <p align="center">
   <img src="https://github.com/madrian98/WorldHappinessPython/blob/main/README_Images/MAE%2CMSE%2CR2.png" />
-  Comparing different regression models for dataset in terms of MSE,MAE and R2 results
+  Comparing different regression algorithms in terms of MSE,MAE and R2 results within dataset
 </p>
 
 <p align="center">
   <img src="https://github.com/madrian98/WorldHappinessPython/blob/main/README_Images/Elastinc%20Net%20Regression.png" />
-  Elastic Net Regression variable influence on happiness score
+  Elastic Net Regression variables influence on happiness score
 </p>
 
 <p align="center">
   <img src="https://github.com/madrian98/WorldHappinessPython/blob/main/README_Images/XGB%20Regression.png" />
-  XGB regression variable influence on happiness score
+  XGB regression variables influence on happiness score
 </p>
 
 <p align="center">
@@ -37,11 +37,11 @@ Try it out with binder:<br /> [![Binder](https://mybinder.org/badge_logo.svg)](h
 
 <p align="center">
   <img src="https://github.com/madrian98/WorldHappinessPython/blob/main/README_Images/GMM%20clustering.png" />
-  Gaussian Mixture Models Clustering
+  Gaussian Mixture Models clustering
 </p>
 
 <p align="center">
   <img src="https://github.com/madrian98/WorldHappinessPython/blob/main/README_Images/AP%20Clustering.png" />
-  Affinity Propagation Clustering
+  Affinity Propagation clustering
 </p>
 
